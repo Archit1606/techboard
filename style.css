@@ -143,7 +143,7 @@ margin-left: 50px;
     background-color: black;
     margin: 0px 15px 0px 10px;
     top: 10px;
-left: 200px;
+left: 250px;
 }
  .bottom .bar .bar2{
     position: absolute;
@@ -175,11 +175,11 @@ left: 200px;
     }
 .bottom .playlist {
     margin-top: 30px;
-    margin-left: 1000px;
+    margin-left: 300px;
     display: flex;
 }
 
 .bottom .music {
-    margin-left: 820px;
+    margin-left: 240px;
     margin-top: 100px;
 }
